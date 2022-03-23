@@ -1,3 +1,2 @@
-print("sad")
-print("Sadsa")
-print("end")
+print("hello")
+print("ewewew")
